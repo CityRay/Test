@@ -1,6 +1,6 @@
 http://cityray.github.io/Test/wide/index.html
 
-git checkout -b gh-pages
+git checkout -b gh-pages (產生新的 branch, 並同時切換過去 new-branch)
 git add .
 git push origin gh-pages
 
