@@ -1,0 +1,10 @@
+http://cityray.github.io/Test/wide/index.html
+
+git checkout -b gh-pages
+git add .
+git push origin gh-pages
+
+
+=====
+learn:
+http://www.thinkful.com/learn/a-guide-to-using-github-pages/

@@ -11,8 +11,11 @@ Push an existing repository from the command line/
 git remote add origin https://github.com/CityRay/Test
 git push -u origin master
 
-======================================================
+
+
+==========================================================
 指令說明
+==========================================================
 
 1. 開啟一個專案只要輸入
 
