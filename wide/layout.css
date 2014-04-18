@@ -14,7 +14,14 @@ body {
 
 /*---TOPTOP-------------------------*/
 #TOPTOP h1{
-	margin: 0 auto; width: 1224px; height: 600px; background-image:url(images/banner.png); text-indent:-9999px;
+	margin: 0 auto; width: 1224px; height: 600px; background-image:url(images/banner.png);
+}
+
+/*-----Hide Text-----*/
+.hide-text{
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
 }
 
 /*---NAVNAV-------------------------*/
