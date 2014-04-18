@@ -1,9 +1,19 @@
+@本機端初始化
+git config --global user.name "TestMan"
+git config --global user.email "TestMan@mail.com"
+
+
+@從Github抓檔案下來
+git clone https://github.com/TestMan/TestMan.git
+
+
 Create a new repository on the command line/
 touch README.md
 git init
+git status
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/CityRay/Test
+git remote add origin https://github.com/XXX/XXX
 git push -u origin master
 
 
