@@ -50,6 +50,7 @@ git push
 7.同步github上的版本，將資料拉回
 
 git pull
+git pull --rebase origin master
 
  
 8.查看目前repo的狀態
@@ -69,3 +70,5 @@ git rm img/\*.jpg (刪除jpg的檔案)
 
 11. git branch                      目前的branch
     git checkout master             切換branch
+
+
