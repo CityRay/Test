@@ -75,9 +75,31 @@
             $(".ajax_loader").fadeOut(2000);
         });
         $(document).ready(function (){
-            $("#btn372").click(function(){
 
-                $("#div371").load("conn.html #september");
+            $("#btn372").click(function(e){
+
+                $("#div371").animate({'opacity':0}, 200);
+                e.preventDefault();
+                $("#div371").load("conn.html #september", function(response, status, xhr){
+
+                    $("#div371").animate({'opacity':1}, 200);
+
+                    if (status == "error") {
+                        var msg = "Sorry but there was an error: ";
+                        alert(msg + xhr.status + " " + xhr.statusText);
+                    }
+
+                });
+              
+                /*
+                $("#div371").load("conn.html #september", function(response, status, xhr){
+                    if (status == "error") {
+                        var msg = "Sorry but there was an error: ";
+                        alert(msg + xhr.status + " " + xhr.statusText);
+                    }
+
+                });
+                */
 
             });
         });
