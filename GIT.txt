@@ -1,6 +1,11 @@
 @本機端初始化
 git config --global user.name "TestMan"
 git config --global user.email "TestMan@mail.com"
+git config --global color.diff auto
+git config --global color.status auto
+git config --global color.branch auto
+git config --global color.log auto
+
 
 
 @從Github抓檔案下來
