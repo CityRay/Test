@@ -1,0 +1,16 @@
+{
+  "title": "新北市Good Job",
+  "android": {
+      "os": "Android 2.3",
+      "ui": "Android"
+  },
+  "images": [
+      "img/apps/1801.jpg",
+      "img/apps/1802.jpg"
+  ],
+  "storage": {
+      "flash": "16384MB",
+      "ram": "512MB"
+  },
+  "descriptions": "「新北市GoodJob APP」把最新的職缺、徵才活動、職場新聞等資訊即時傳遞給求職者，使其享受更便利的求職服務。功能包含「職缺查詢」、「徵才活動」、「職場新聞」、「客服資訊」等，使求職者可以隨時隨地上網查職，搜尋適合的工作機會，一手掌握職缺最新資訊。"
+}

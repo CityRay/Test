@@ -1,0 +1,16 @@
+{
+  "title": "新北市iPolice",
+  "android": {
+      "os": "Android 2.3",
+      "ui": "Android"
+  },
+  "images": [
+      "img/apps/0801.jpg",
+      "img/apps/0802.jpg"
+  ],
+  "storage": {
+      "flash": "16384MB",
+      "ram": "512MB"
+  },
+  "descriptions": "「iPolice」為結合警政資訊系統，提供給新北市民的行動保母App，民眾能夠隨時隨地選用需要的警政資訊以及即時獲得警察的服務。"
+}

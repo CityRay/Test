@@ -1,0 +1,16 @@
+{
+  "title": "新北i環保",
+  "android": {
+      "os": "Android 2.3",
+      "ui": "Android"
+  },
+  "images": [
+      "img/apps/1601.jpg",
+      "img/apps/1602.jpg"
+  ],
+  "storage": {
+      "flash": "16384MB",
+      "ram": "512MB"
+  },
+  "descriptions": "新北市政府環保局為提供使用智慧型手機的民眾簡便、快速的公害陳情報案，研發「新北i環保」APP，讓民眾「一機在手，便利無窮」，實現全民環保的目的。"
+}

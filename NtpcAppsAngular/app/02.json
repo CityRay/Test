@@ -1,13 +1,12 @@
 {
-  "title": "「阿倫Online」新北市掌上型政府",
+  "title": "新北市掌上e櫃台",
   "android": {
       "os": "Android 2.3",
       "ui": "Android"
   },
   "images": [
-      "img/apps/0101.jpg",
-      "img/apps/0102.jpg",
-      "img/apps/0103.jpg"
+      "img/apps/0202.jpg",
+      "img/apps/0201.jpg"
   ],
   "storage": {
       "flash": "16384MB",
