@@ -1,0 +1,18 @@
+{
+  "title": "「阿倫Online」新北市掌上型政府",
+  "android": {
+      "os": "Android 2.3",
+      "ui": "Android"
+  },
+  "images": [
+      "img/phones/nexus-s.0.jpg",
+      "img/phones/nexus-s.1.jpg",
+      "img/phones/nexus-s.2.jpg",
+      "img/phones/nexus-s.3.jpg"
+  ],
+  "storage": {
+      "flash": "16384MB",
+      "ram": "512MB"
+  },
+  "descriptions": "「阿倫Online」新北市掌上型政府， 結合智慧型手機提供您隨時陳情、查詢陳情進度、反映施政滿意度及提出施政建議等服務。「新北市.心服務」全球24小時為您服務。"
+}

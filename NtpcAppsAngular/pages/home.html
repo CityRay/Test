@@ -1,0 +1,11 @@
+<!-- home.html -->
+<div class="col-md-4" ng-repeat="app in apps | orderBy:orderProp">
+	<div class="grid mask">
+
+			<img class="img-responsive" src="{{app.image}}" alt="">
+			<h5>{{app.title}}</h5>
+			<img src="{{app.imageUrl}}"><span>  </span>
+			<a data-toggle="modal" href="#/app/{{app.id}}" class="btn btn-primary btn-lg">more</a>
+
+	</div><!-- /grid-mask -->
+</div><!-- /col -->
