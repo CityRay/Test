@@ -57,7 +57,7 @@ scotchAppControllers.controller('contactController', ['$scope', '$http',
 	function($scope, $http) {
 
 	// create a message to display in our view
-	$scope.message = 'You can Contact Me from <a href="http://cityray.github.io/myWeb/">Here</a>';
+	$scope.message = 'You can Contact Me from http://cityray.github.io/myWeb/';
 	$scope.phone = '2222222222222222222222';
 
 }]);
